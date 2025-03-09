@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! My name is Michael! I am a WGU accounting student who decided to start learning how to code. 🧑‍💻😊<br><br>Angela Yu's Python Course - day 6/100.<br><br>Odin Project Foundation = 56% done.</h2>
+<h2 align="left">Hello World! My name is Michael! I am a WGU accounting student who decided to start learning how to code. 🧑‍💻😊<br><br>Angela Yu's Python Course - day 6/100.<br><br>Odin Project Foundation - 56% done.</h2>
 
 ###
 
