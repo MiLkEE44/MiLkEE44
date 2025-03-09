@@ -29,7 +29,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MiLkEE44/MiLkEE44/output/snake.svg" alt="Snake animation" />
-
 ###
 
