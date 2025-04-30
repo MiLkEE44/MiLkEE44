@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! My name is Michael, and I'm 26! I'm a Full-Time Railroad employee and a Full-Time WGU (BS) Accounting student who decided to learn how to code on the side. 🧑‍💻😊<br><br>Angela Yu's Python Course - day 10/100.<br><br>Odin Project Foundation - 64% done.</h2>
+<h2 align="left">Hello World! My name is Michael, and I'm 26! I'm a Full-Time Railroad employee and a Full-Time WGU (BS) Accounting student who decided to learn how to code on the side. 🧑‍💻😊<br><br>Angela Yu's Python Course - day 9/100.<br><br>Odin Project Foundation - 64% done.</h2>
 
 ###
 
